@@ -24,7 +24,7 @@ The project is a python-based intruder detection system that leverages an ML mod
 
 ### Features
 
-1. Uses the model 'EfficientNet D1' of the Google Object Detection API for fast detection.
+1. Uses the model [EfficientNet D1](https://arxiv.org/abs/1911.09070) of the Tensorflow Object Detection API trained on the [COCO 2017](https://cocodataset.org/) dataset for fast detection.
 2. Multi-threaded process for not missing any key moment while the model is running.
 3. Automatic recording when an intruder has been detected. Recording stops when the intruder moves out of the camera frame.
 4. Connection to a Firebase app wherein users can set alert modes to start/stop the system. For example, when leaving home/reaching back.
@@ -47,4 +47,4 @@ $ python intruder-detection.py
 
 ## Author
 
-Yagaagowtham P (github.com/yagaag)
+Yagaagowtham P [github.com/yagaag](https://github.com/yagaag)
