@@ -9,13 +9,9 @@ Python project for detecting intruders in live video with Firebase alert and aut
 ## Requirements
 
 python 3.x
-
 tensorflow 2.x
-
 numpy
-
 opencv
-
 pyrebase (Optional)
 
 ## About the project
