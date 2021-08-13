@@ -6,7 +6,7 @@ Python project for detecting intruders in live video with Firebase alert and aut
 
 1.0.0
 
-# Requirements
+## Requirements
 
 python 3.x
 
@@ -47,4 +47,4 @@ $ python intruder-detection.py
 
 ## Author
 
-Yagaagowtham P [github.com/yagaag](https://github.com/yagaag)
+Yagaagowtham P ([github.com/yagaag](https://github.com/yagaag))
