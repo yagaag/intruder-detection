@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
     # To alert firebase for intruders
     def alert_firebase(message):
-        if massage == 'intruder':
+        if message == 'intruder':
             results = db.child("Users").child(str(user_id)).update({"intruder": "True"})
 
     # To look for intruders in an image
