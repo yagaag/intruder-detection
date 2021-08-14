@@ -28,7 +28,7 @@ The project is a python-based intruder detection system that leverages an Object
 2. Multi-threaded process for not missing any key moment while the model is running.
 3. Automatic recording when an intruder(s) has been detected. Recording stops when the intruder(s) moves out of the camera frame.
 4. Code for connecting to a Firebase app wherein the user can set alert modes to start/stop the system. For example, when leaving home/reaching back.
-5. Automatic app notification via Firebase incase an intruder has been detected when the system is in alert mode.
+5. Automatic app notification via Firebase incase an intruder(s) has been detected when the system is in alert mode.
 
 ## Demo
 
